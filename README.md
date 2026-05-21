@@ -1,4 +1,4 @@
-# Battaglia Navale – Progetto FSL Tepsit
+# Battaglia Navale – Progetto FSL
 
 Gioco della Battaglia Navale client-server in Python con interfaccia grafica Pygame.
 
