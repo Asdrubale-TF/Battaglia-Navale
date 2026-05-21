@@ -13,6 +13,7 @@ pip install -r requirements.txt
 python server.py
 2. Avvia il client su due terminali diversi:
 python client.py
+
 Se i due PC sono sulla stessa rete locale, modifica la riga
    `SERVER_HOST = "127.0.0.1"` in `client.py` con l'IP del PC server.
 
